@@ -4,7 +4,7 @@ export default function SideNav ()
         <nav
             className="flex w-[28x`x`0px] h-screen border"
         >
-            
+           hello 
         </nav>
     )
 }

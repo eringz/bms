@@ -6,9 +6,7 @@ export default function AuthLayout ({
 {
     return (
         <html lang="en">
-            <body
-                className=""
-            >
+            <body>
                 {children}
             </body>
         </html>

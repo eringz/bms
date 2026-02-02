@@ -5,10 +5,8 @@ export default function AuthLayout ({
 }>)
 {
     return (
-        <html lang="en">
-            <body>
-                {children}
-            </body>
-        </html>
+        <>
+            {children}
+        </>
     )
 } 
